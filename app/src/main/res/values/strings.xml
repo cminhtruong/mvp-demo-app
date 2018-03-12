@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="user_name">Login</string>
+    <string name="log_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="loginError">Login Error</string>
+    <string name="passwordError">Password Error</string>
+</resources>
